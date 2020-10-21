@@ -1,3 +1,5 @@
+//LOVE CALCULATOR
+
 prompt("enter your name");
 prompt("enter your partners name");
 var lovepercentage = Math.random()*100;
